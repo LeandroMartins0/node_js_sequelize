@@ -1,0 +1,19 @@
+{
+  "name": "node_js_celke",
+  "version": "1.0.0",
+  "description": "cursonode",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Cesar Szpak",
+  "license": "ISC"
+}
